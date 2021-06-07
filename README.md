@@ -1,6 +1,6 @@
 # Bootstrap 5 Dynamic color
-I've replaced all hard coded colors in default bootstrap theme with variable (primary,secondary etc..)
-and now you can override default colors without the need of rebuilding bootstrap sass files.
+I've replaced all hard coded colors in default bootstrap theme with variables (like var(--bs-primary))
+Now you can override default colors without the need of rebuilding bootstrap sass files.
 
 ## usage example
     <html>
